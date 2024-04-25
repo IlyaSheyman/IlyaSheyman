@@ -3,5 +3,5 @@
 ### 🔗 Contacts 
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ssheyman)
-[![Email](https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD)](mailto:ilyasheyman04@gmail.com)               
+[![Email](https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat-square&logo=gmail&logoColor=white&labelColor=black&color=62F1CD)](mailto:ilyasheyman04@gmail.com)               
 ---
